@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "IBS-AR"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - council.qmd
+      - news.qmd
+      - awards.qmd
+      - conferences.qmd
+      - membership.qmd
+      - contact.qmd
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
