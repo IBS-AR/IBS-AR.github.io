@@ -1,5 +1,10 @@
 # International Biometrics Society - Australasian Region 
 
+This is a work-in-progress!
+
+The aim is to replace the existing society website (https://biometrics.org.au/) to a modern style by June 2024 (before we have to pay for renewal of the website).
+
+
 ## How to update the website
 
 The website is built using Quarto. You will need to download Quarto to make updates to the website.
