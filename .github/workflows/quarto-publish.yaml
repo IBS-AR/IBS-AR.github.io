@@ -4,14 +4,13 @@ on:
   pull_request:
     branches: [main, master]
 
-name: quarto publish1
+name: quarto publish
 
 jobs:
-  R-CMD-check:
+  quarto-publish:
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-      R_KEEP_PKG_SOURCE: yes
     steps:
       - uses: actions/checkout@v3
 
