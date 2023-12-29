@@ -3,23 +3,33 @@ project:
 
 website:
   title: "IBS-AR"
+  favicon: favicon.ico
+  repo-url: https://github.com/IBS-AR/IBS-AR.github.io
+  repo-actions: [edit, issue]
+  sidebar:
+    logo: logo-ibs-ar.svg
   navbar:
+    logo: logo-ibs-ar.svg
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
       - council.qmd
       - news.qmd
       - awards.qmd
       - conferences.qmd
       - membership.qmd
       - contact.qmd
+    tools:
+      - icon: github
+        url: https://github.com/IBS-AR/IBS-AR.github.io
 
 
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
