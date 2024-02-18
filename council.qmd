@@ -1,5 +1,8 @@
 ---
 title: Council
+df-print: kable
+execute: 
+  echo: false
 ---
 
 The Australasian Region is governed by a council comprising the President, Vice-President, Secretary, Treasurer, Membership Officer, Social Media Coordinator and Public Officer of the region, as well as the website manager, regional newsletter correspondent, and regional representatives to IBS. We currently have one member on the IBS Executive Board and three on Council, as seen below.
@@ -8,5 +11,41 @@ A President-elect shall be chosen by ballot at the Annual General Meeting (AGM) 
 
 Nominations for each vacant position are called for by the Secretary towards the end of the calendar year. If more than one nomination is received for a particular position, then members are required to vote for a preferred candidate for the position at the annual general meeting (AGM). Otherwise, no formal election is necessary.
 
+## Current council members
+
 The regional council currently comprises the following people:
+
+```{r}
+#| message: false
+library(tidyverse)
+term <- read_csv("data/current-council-terms.csv")
+council <- read_csv("data/council.csv") 
+  
+current_council <- council |> 
+  filter(year == year(Sys.Date())) |> 
+  select(-year) |> 
+  left_join(term, by = "name") |> 
+  mutate(term = ifelse(term_start==term_end,
+                       term_start,
+                       paste0(term_start, " - ", term_end))) |> 
+  select(-term_start, -term_end)
+
+colnames(current_council) <- str_to_title(colnames(current_council))
+current_council
+```
+
+## Past council members
+
+Note: this is not the complete record.
+
+```{r}
+past_council <- council |> 
+  filter(year < year(Sys.Date())) |> 
+  filter(!paste0(name, position) %in% paste0(current_council$Name, current_council$Position))
+
+
+colnames(past_council) <- str_to_title(colnames(past_council))
+
+past_council
+```
 
