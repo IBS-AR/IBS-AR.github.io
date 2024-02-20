@@ -31,3 +31,5 @@ quarto publish gh-pages --no-browser
 ```
 
 Garth!
+
+Sam here too!
