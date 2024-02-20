@@ -29,3 +29,5 @@ quarto preview
 ```
 quarto publish gh-pages --no-browser
 ```
+
+Garth!
