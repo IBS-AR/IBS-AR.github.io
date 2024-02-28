@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "membership.html",
+    "href": "membership.html",
+    "title": "Membership",
+    "section": "",
+    "text": "In 2023 there are approximately 175 members of the Australasian Region. Almost three-quarters of our members reside in Australia, with more than half of these from the states of Queensland and New South Wales. The other quarter of our members are mostly from New Zealand, although we also have members that reside in England, Italy, USA, China, Germany and Vietnam."
+  },
+  {
+    "objectID": "membership.html#our-members",
+    "href": "membership.html#our-members",
+    "title": "Membership",
+    "section": "",
+    "text": "In 2023 there are approximately 175 members of the Australasian Region. Almost three-quarters of our members reside in Australia, with more than half of these from the states of Queensland and New South Wales. The other quarter of our members are mostly from New Zealand, although we also have members that reside in England, Italy, USA, China, Germany and Vietnam."
+  },
+  {
+    "objectID": "membership.html#how-to-join",
+    "href": "membership.html#how-to-join",
+    "title": "Membership",
+    "section": "How to join",
+    "text": "How to join\nWe welcome as members biologists, mathematicians, statisticians, and others interested in applying similar techniques. Individuals usually join as regular members, but we also offer free student membership. See this document for more information for new (and other) members. We also expect all members to abide by the regional by-laws and code of conduct.\nThe two membership categories (regular and student) are explained on the membership types page. All members of the society receive electronic access to the journals Biometrics and the Journal of Agricultural, Biological, and Environmental Statistics (JABES), as well as the newsletter Biometric Bulletin. Student membership is free but only regular members have voting privileges and can hold office.\nAs of 2021, we now have an online membership portal where you can apply to join the society and renew membership online. If you would like to join the society, then please click the button below."
+  },
+  {
+    "objectID": "membership.html#key-dates-for-membership",
+    "href": "membership.html#key-dates-for-membership",
+    "title": "Membership",
+    "section": "Key Dates for Membership",
+    "text": "Key Dates for Membership"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The International Biometrics Society",
+    "section": "",
+    "text": "Welcome to the website for the Australasian Region of the International Biometric Society."
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
@@ -14,11 +49,25 @@
     "text": "Regional newsletter\nA regional newsletter is produced as a means of communicating with members. The first issue of this newsletter was produced in December 2006 for electronic distribution."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The International Biometrics Society",
+    "objectID": "council.html",
+    "href": "council.html",
+    "title": "Council",
     "section": "",
-    "text": "Welcome to the website for the Australasian Region of the International Biometric Society."
+    "text": "The Australasian Region is governed by a council comprising the President, Vice-President, Secretary, Treasurer, Membership Officer, Social Media Coordinator and Public Officer of the region, as well as the website manager, regional newsletter correspondent, and regional representatives to IBS. We currently have one member on the IBS Executive Board and three on Council, as seen below.\nA President-elect shall be chosen by ballot at the Annual General Meeting (AGM) falling in the middle of the term of the current President. The President-Elect shall assume the office of Vice-President at the end of the AGM at which they are elected, and the office of President at the end of the next AGM, when the outgoing President becomes Vice-President as the immediate Past-President. That is, the Vice-President alternates between Past-President and President-Elect each year.\nNominations for each vacant position are called for by the Secretary towards the end of the calendar year. If more than one nomination is received for a particular position, then members are required to vote for a preferred candidate for the position at the annual general meeting (AGM). Otherwise, no formal election is necessary."
+  },
+  {
+    "objectID": "council.html#current-council-members",
+    "href": "council.html#current-council-members",
+    "title": "Council",
+    "section": "Current council members",
+    "text": "Current council members\nThe regional council currently comprises the following people:\n\n\n\n\n\n\n\n\n\n\n\n\nName\nAffiliation\nPosition\nTerm\n\n\n\n\nJames Curran\nUniversity of Auckland\nPresident\n2023 - 2024\n\n\nAlison Kelly\nUniversity of Queensland\nVice President\n2024\n\n\nDavid Baird\nVSN, Christchurch\nSecretary\n2016 - 2024\n\n\nIan Renner\nUniversity of Newcastle\nTreasurer\n2020 - 2024\n\n\nSam Rogers\nUniversity of Adelaide\nMembership Officer\n2020 - 2024\n\n\nEmi Tanaka\nAustralian National University\nSocial Media Officer\n2018 - 2024\n\n\nWarren Muller\nCSIRO, Canberra\nPublic Officer\n2020 - 2024\n\n\nGarth Tarr\nUniversity of Sydney\nBiometric Bulletin correspondent\n2022 - 2024\n\n\nHans Hockey\nBiometrics Matters Ltd, Hamilton\nRegional website manager\n2009 - 2024\n\n\nChris Triggs\nUniversity of Auckland\nIBS Executive Board\n2021 - 2024\n\n\nRoss Darnell\nCSIRO, Brisbane\nIBS Council Member\n2019 - 2024\n\n\nSamuel Muller\nMacquarie University\nIBS Council Member\n2020 - 2025\n\n\nKevin Murray\nUniversity of Western Australia\nIBS Council Member\n2017 - 2025"
+  },
+  {
+    "objectID": "council.html#past-council-members",
+    "href": "council.html#past-council-members",
+    "title": "Council",
+    "section": "Past council members",
+    "text": "Past council members\nNote: this is not the complete record.\n\n\n\n\n\n\nName\nAffiliation\nPosition\nYear\n\n\n\n\nVanessa Cave\nVSNi\nVice President\n2023\n\n\nVanessa Cave\nVSNi\nPresident\n2022\n\n\nJames Curran\nUniversity of Auckland\nVice President\n2022"
   },
   {
     "objectID": "contact.html",
@@ -26,6 +75,13 @@
     "title": "Contact",
     "section": "",
     "text": "If you would like further information about the society - regional or otherwise - then please contact the President, James Curran.\nIf you have queries/comments/suggestions for the website, please contact the Webmaster, Hans Hockey.\nClick on the Regional council link on the side bar for latest email addresses of council members."
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Conferences",
+    "section": "",
+    "text": "2023 International Biometric Society Australasian Region conference\nOur main activity is our regional biennial conference, but the planned 2021 conference in the Bay of Islands was postponed, initially to 2022, but is now happening in 2023! The direct link is biometricsboi.nz.\nThe dates are 27 November to 1 December 2023, to be held at the Copthorne Hotel and Resort Bay of Islands, Waitangi, NZ. As was intended for 2021, the 2023 conference aims to be a joint event with Statistical Ecology and Environmental Monitoring (SEEM) conference. Conference themes for 2023 are:\nStatistical Genetics/’Omics Spatial/Temporal Modelling Design/Surveys Biostatistics Agricultural Statistics Demographic/Population Modelling Multivariate Statistics Statistical Consulting—Best Practice & Collaboration Data Governance/Sovereignty Machine Learning for Environmental and Ecological Applications A biennial meeting is one of the main activities of the region, which enables members and non-members to come together to exchange ideas, learn about new research methodologies and applications, network and establish important contacts and collaboration opportunities. These five-day conferences are renowned for being intimate regarding numbers of participants, yet large enough to facilitate worthwhile invited and contributed talks as well as poster presentations. The program typically has a reception gathering, a poster event, an excursion afternoon and an evening conference dinner, all to encourage social and professional networking. Specialist pre-conference short-courses on the first day are also a feature for those interested or wanting professional development.\nYou can read more about conferences here."
   },
   {
     "objectID": "awards.html",
@@ -103,61 +159,5 @@
     "title": "About us",
     "section": "Elections",
     "text": "Elections\nThe President serves a two year term. A President-elect is chosen by ballot at the Annual General Meeting (AGM) falling in the middle of the term of the current President and serves as Vice-President from then to the end of the next AGM, whence they become President. At the same time the immediate past president become Vice-President for one year. The officers and members of the Council, other than President and ex-officio members, are chosen by a ballot of Members prior to each AGM."
-  },
-  {
-    "objectID": "conferences.html",
-    "href": "conferences.html",
-    "title": "Conferences",
-    "section": "",
-    "text": "2023 International Biometric Society Australasian Region conference\nOur main activity is our regional biennial conference, but the planned 2021 conference in the Bay of Islands was postponed, initially to 2022, but is now happening in 2023! The direct link is biometricsboi.nz.\nThe dates are 27 November to 1 December 2023, to be held at the Copthorne Hotel and Resort Bay of Islands, Waitangi, NZ. As was intended for 2021, the 2023 conference aims to be a joint event with Statistical Ecology and Environmental Monitoring (SEEM) conference. Conference themes for 2023 are:\nStatistical Genetics/’Omics Spatial/Temporal Modelling Design/Surveys Biostatistics Agricultural Statistics Demographic/Population Modelling Multivariate Statistics Statistical Consulting—Best Practice & Collaboration Data Governance/Sovereignty Machine Learning for Environmental and Ecological Applications A biennial meeting is one of the main activities of the region, which enables members and non-members to come together to exchange ideas, learn about new research methodologies and applications, network and establish important contacts and collaboration opportunities. These five-day conferences are renowned for being intimate regarding numbers of participants, yet large enough to facilitate worthwhile invited and contributed talks as well as poster presentations. The program typically has a reception gathering, a poster event, an excursion afternoon and an evening conference dinner, all to encourage social and professional networking. Specialist pre-conference short-courses on the first day are also a feature for those interested or wanting professional development.\nYou can read more about conferences here."
-  },
-  {
-    "objectID": "council.html",
-    "href": "council.html",
-    "title": "Council",
-    "section": "",
-    "text": "The Australasian Region is governed by a council comprising the President, Vice-President, Secretary, Treasurer, Membership Officer, Social Media Coordinator and Public Officer of the region, as well as the website manager, regional newsletter correspondent, and regional representatives to IBS. We currently have one member on the IBS Executive Board and three on Council, as seen below.\nA President-elect shall be chosen by ballot at the Annual General Meeting (AGM) falling in the middle of the term of the current President. The President-Elect shall assume the office of Vice-President at the end of the AGM at which they are elected, and the office of President at the end of the next AGM, when the outgoing President becomes Vice-President as the immediate Past-President. That is, the Vice-President alternates between Past-President and President-Elect each year.\nNominations for each vacant position are called for by the Secretary towards the end of the calendar year. If more than one nomination is received for a particular position, then members are required to vote for a preferred candidate for the position at the annual general meeting (AGM). Otherwise, no formal election is necessary."
-  },
-  {
-    "objectID": "council.html#current-council-members",
-    "href": "council.html#current-council-members",
-    "title": "Council",
-    "section": "Current council members",
-    "text": "Current council members\nThe regional council currently comprises the following people:\n\n\n\n\n\n\n\n\n\n\n\n\nName\nAffiliation\nPosition\nTerm\n\n\n\n\nJames Curran\nUniversity of Auckland\nPresident\n2023 - 2024\n\n\nAlison Kelly\nUniversity of Queensland\nVice President\n2024\n\n\nDavid Baird\nVSN, Christchurch\nSecretary\n2016 - 2024\n\n\nIan Renner\nUniversity of Newcastle\nTreasurer\n2020 - 2024\n\n\nSam Rogers\nUniversity of Adelaide\nMembership Officer\n2020 - 2024\n\n\nEmi Tanaka\nAustralian National University\nSocial Media Officer\n2018 - 2024\n\n\nWarren Muller\nCSIRO, Canberra\nPublic Officer\n2020 - 2024\n\n\nGarth Tarr\nUniversity of Sydney\nBiometric Bulletin correspondent\n2022 - 2024\n\n\nHans Hockey\nBiometrics Matters Ltd, Hamilton\nRegional website manager\n2009 - 2024\n\n\nChris Triggs\nUniversity of Auckland\nIBS Executive Board\n2021 - 2024\n\n\nRoss Darnell\nCSIRO, Brisbane\nIBS Council Member\n2019 - 2024\n\n\nSamuel Muller\nMacquarie University\nIBS Council Member\n2020 - 2025\n\n\nKevin Murray\nUniversity of Western Australia\nIBS Council Member\n2017 - 2025"
-  },
-  {
-    "objectID": "council.html#past-council-members",
-    "href": "council.html#past-council-members",
-    "title": "Council",
-    "section": "Past council members",
-    "text": "Past council members\nNote: this is not the complete record.\n\n\n\n\n\n\nName\nAffiliation\nPosition\nYear\n\n\n\n\nVanessa Cave\nVSNi\nVice President\n2023\n\n\nVanessa Cave\nVSNi\nPresident\n2022\n\n\nJames Curran\nUniversity of Auckland\nVice President\n2022"
-  },
-  {
-    "objectID": "membership.html",
-    "href": "membership.html",
-    "title": "Membership",
-    "section": "",
-    "text": "In 2023 there are approximately 175 members of the Australasian Region. Almost three-quarters of our members reside in Australia, with more than half of these from the states of Queensland and New South Wales. The other quarter of our members are mostly from New Zealand, although we also have members that reside in England, Italy, USA, China, Germany and Vietnam."
-  },
-  {
-    "objectID": "membership.html#our-members",
-    "href": "membership.html#our-members",
-    "title": "Membership",
-    "section": "",
-    "text": "In 2023 there are approximately 175 members of the Australasian Region. Almost three-quarters of our members reside in Australia, with more than half of these from the states of Queensland and New South Wales. The other quarter of our members are mostly from New Zealand, although we also have members that reside in England, Italy, USA, China, Germany and Vietnam."
-  },
-  {
-    "objectID": "membership.html#how-to-join",
-    "href": "membership.html#how-to-join",
-    "title": "Membership",
-    "section": "How to join",
-    "text": "How to join\nWe welcome as members biologists, mathematicians, statisticians, and others interested in applying similar techniques. Individuals usually join as regular members, but we also offer free student membership. See this document for more information for new (and other) members. We also expect all members to abide by the regional by-laws and code of conduct.\nThe two membership categories (regular and student) are explained on the membership types page. All members of the society receive electronic access to the journals Biometrics and the Journal of Agricultural, Biological, and Environmental Statistics (JABES), as well as the newsletter Biometric Bulletin. Student membership is free but only regular members have voting privileges and can hold office.\nAs of 2021, we now have an online membership portal where you can apply to join the society and renew membership online. If you would like to join the society, then please click the button below."
-  },
-  {
-    "objectID": "membership.html#key-dates-for-membership",
-    "href": "membership.html#key-dates-for-membership",
-    "title": "Membership",
-    "section": "Key Dates for Membership",
-    "text": "Key Dates for Membership"
   }
 ]

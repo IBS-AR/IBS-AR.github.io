@@ -1,1 +1,1 @@
-Sitemap: https://IBS-AR.github.io/sitemap.xml
+Sitemap: https://IBS-AR.github.io/IBS-AR-website/sitemap.xml
