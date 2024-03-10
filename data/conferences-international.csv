@@ -1,2 +1,8 @@
-name, year,location,date_start,date_end,link
-IBC Latvia, 2022,"Riga, Latvia","","",""
+name,location,date_start,date_end,link
+IBC Riga,"Riga, Latvia","2022-07-10","2022-07-15","https://www.ibc2022.org/home"
+IBC Barcelona,"Barcelona, Spain","2018-07-08","2018-07-13","https://2018.biometricconference.org/"
+IBC Victoria,"Victoria, Canada","2016-07-10","2016-07-15","https://2016.biometricconference.org/"
+IBC Florence,"Florence, Italy","2014-07-06","2014-07-11",""
+IBC Kobe,"Kobe, Japan","2012-07-01","2012-07-06",""
+IBC Florianopolis,"Florianopolis, Brazil","2010-07-11","2010-07-16",""
+IBC Dublin,"Dublin, Ireland","2008-07-06","2008-07-11",""
