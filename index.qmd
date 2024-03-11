@@ -3,5 +3,14 @@ title: "The International Biometrics Society"
 subtitle: "Australasian Region"
 ---
 
-
 Welcome to the website for the Australasian Region of the International Biometric Society.
+
+Our region comprises members of the International Biometric Society (IBS) that predominantly reside in Australia and New Zealand. Currently, membership numbers are over 200.
+
+Professionally, we are statisticians, biometricians, mathematicians, scientists and managers, from academia, consulting or research and development, with biological applications being the common link. Biological applications include medicine, public health, ecology, environmental science, agriculture, genetics, microbiology and toxicology, amongst others.
+
+Our employers range from local and commonwealth government agencies where there may be a team of biometricians employed, to private institutions which may only employ one biometrician.
+
+We offer student scholarships and financial support to attend conferences on a regular basis. See our [Prizes/Awards](awards.html) page.
+
+The presentations for the talks at the Biometrics in the Bay of Islands conference are [now online](https://biometricsboi.nz/sched.php). There are purple links to the PowerPoints or PDFs in the schedule under each author who provided these.
