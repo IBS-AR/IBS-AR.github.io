@@ -19,7 +19,14 @@ website:
         text: About
       - council.qmd
       - news.qmd
-      - awards.qmd
+      - text: Prizes
+        menu:
+          - href: awards.qmd
+            text: Prizes and awards
+          - href: scholarships.qmd
+            text: Scholarships
+          - href: alfaward.qmd
+            text: Alf Cornish award
       - conferences.qmd
       - membership.qmd
       - contact.qmd

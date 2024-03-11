@@ -1,17 +1,35 @@
 ---
-title: "Prizes and Awards"
+title: "Prizes"
 ---
 
-## Student prizes and awards
+The Australasian Region of the International Biometric Society wants to encourage enthusiastic and talented research students and recent graduates in statistics, mathematical statistics, biostatistics, bioinformatics or biometrics, to career paths in biostatistics and biometrics.
 
-On the final conference day in Adelaide, 2019, student awards for talks were announced. Rune Christiansen was judged as giving the best student presentation and Kevin Wang received honourable mention.
+Our society offers scholarships and travel awards on a regular basis to students and/or early career members of the society. The value of these scholarships and awards are set by regional council and may be reviewed annually.
 
-There were also student awards for posters announced. Lucas Peitton had the best student poster and Eugenia Settecase was runner-up. Both are also pictured here.
+## Scholarships for Honours and coursework Masters students
 
-In the general category Samuel Rogers was judged to have the best poster and Alan Welsh received honourable mention.
+The society offers scholarships for suitably qualified students who intend to undertake a fourth or honours year of study or a Master's degree in statistics, mathematical statistics, biostatistics, bioinformatics or biometrics at an Australian or New Zealand university.
 
-Our society also offers scholarships and travel awards each year to students and/or early career members of the society. 
+The deadline for applications is usually in March each year. When applications open members will receive an email from the IBS-AR Secretary. Full details can be found on the [scholarships for honours and coursework masters students page](scholarships.qmd).
 
 ## E.A. (Alf) Cornish award
 
-The E.A. (Alf) Cornish award was established in 2011 at the regional conference in Kiama, New South Wales, Australia. It is for recognition of a member in the Australasian Region who has given ‘longtime’ service to the Biometric Society and to the advancement of biometry. 
+The E.A. (Alf) Cornish award was established in 2011 at the regional conference in Kiama, New South Wales, Australia. It is for recognition of a member in the Australasian Region who has given ‘longtime’ service to the Biometric Society and to the advancement of biometry. Further details can be found [here](alfaward.qmd).
+
+## Travel grants
+
+Occasionally the region offers a travel award to assist an outstanding student member of the society or an early career regular member, resident in the region, who intend to present a talk or poster at relevant regional or international meetings but need financial support.
+
+The value of these awards varies and depends on the conference and the number of awards on offer.
+
+## Conference prizes and awards
+
+### 2019
+
+On the final conference day in Adelaide, 2019, [student awards for talks](https://www.flickr.com/photos/australasian-biometrics/49202424576/in/album-72157712155983523) were announced. [Rune Christiansen](https://www.flickr.com/photos/australasian-biometrics/49201941153/in/album-72157712155983523) was judged as giving the best student presentation and Kevin Wang received honourable mention.
+
+There were also [student awards for posters](https://www.flickr.com/photos/australasian-biometrics/49201941648/in/album-72157712155983523) announced. [Lucas Peitton](https://www.flickr.com/photos/australasian-biometrics/49201941153/in/album-72157712155983523) had the best student poster and Eugenia Settecase was runner-up. Both are also pictured [here](https://groundcover.grdc.com.au/story/6443772/numbers-game-in-ag-overseas-statisticians-add-value).
+
+In the general category [Samuel Rogers](https://samrogers.website/) was judged to have the best poster and Alan Welsh received honourable mention.
+
+

@@ -34,6 +34,8 @@ colnames(current_council) <- str_to_title(colnames(current_council))
 current_council
 ```
 
+Emi, Ian and Vanessa are the current safety officers referred to in the [regional code of conduct document](docs/IBS-AR-Code-of-Conduct.pdf).
+
 ## Past council members
 
 Note: this is not the complete record, it has been recreated from historical regional newsletters.

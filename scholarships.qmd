@@ -1,0 +1,60 @@
+---
+title: "Scholarships for Honours and coursework Masters students"
+---
+
+## Background
+
+The Australasian Region of the International Biometric Society (IBS) wants to encourage enthusiastic and talented graduates, or near graduates, in statistics, mathematical statistics, biostatistics or biometrics, to career paths in biostatistics and biometrics.  Research activity in the biological sciences, particularly biotechnology and medicine, has increased rapidly in recent years and there is a demand for graduates with ability in, and affinity for, mathematical and statistical aspects of biological research.  The society is offering scholarships for suitably qualified students who intend to undertake a fourth or honours year of study, or a Masters degree, in statistics, mathematical statistics, biostatistics or biometrics.
+
+Scholarships are for one year and are valued at A$1500.  Applicants should be completing, or have completed, a relevant course in statistics, mathematical statistics, biostatistics or biometrics, and must have a strong academic record, potential for a career in research, a strong interest in applications of mathematics and statistics to the biosciences, and good communication skills.  For part-time students, the scholarship will be pro rata.
+
+## How to apply
+
+[<button type="button" class="btn btn-primary">Application form</button>](docs/IBS-AR-Scholarships2024-application-form.doc) [<button type="button" class="btn btn-primary">Referee form</button>](docs/IBS-AR-Scholarships2024-referee-form.doc)
+
+:::{.callout-important collapsable=false appearance='default' icon=true}
+## 2024 closing date: Friday 22nd March
+
+The closing date for applications in 2024 is Friday 22nd March.
+
+Please read this page carefully to verify your eligibility before submitting an application. 
+
+:::
+
+
+- [Application form](docs/IBS-AR-Scholarships2024-application-form.doc)
+- [Referee form](docs/IBS-AR-Scholarships2024-referee-form.doc)
+
+Download the application form from the IBS Australasian Region website (see above) and complete. Your application should also include a copy of your academic record, including third year results if applicable, and a supporting statement from an academic referee, such as one of your third-year lecturers. The form for the supporting statement from the academic referee is also available on the IBS regional website. Procedures for submitting the application, and the supporting statement are detailed on the forms.
+
+### Eligibility Criteria
+
+- Current or previous study in statistics, mathematical statistics, biostatistics or biometrics.
+- Intention to enrol in a course of study (Honours, 4th year, or coursework Masters) in statistics, mathematical statistics, biostatistics or biometrics, at a university in Australia or New Zealand.  The course may be commenced in either the first or second semester of the year of the award.
+- International students resident in Australia and New Zealand are welcome to apply. 
+- Recipients of traineeships from prospective or current employers, and students receiving paid study leave from an employer, are ineligible for these awards.
+- Recipients of awards, prizes and scholarships from universities and other professional societies are eligible for these awards. 
+
+### Selection Criteria
+
+- Strength of academic record
+- Potential for a career in research
+- Strength of interest in applications of mathematics and statistics to the biosciences
+- Strength of communication skills
+
+The award process is competitive and decisions of the selection committee will be based on
+
+- tertiary academic record, including course selection and 3rd year grades (if applicable),
+- information provided by the applicant on the application form,
+- a supporting statement provided by an academic referee, and
+- other supporting material volunteered by the applicant. 
+
+### Awards
+
+- Successful applicants will be notified in mid-April.
+- The names of successful applicants and a summary of their application will be publicised by the society in newsletters and electronic bulletin boards.
+- Payment of the award will be by cheque on receipt of evidence of enrolment in a 4th year or honours program, or Masters program, in statistics, mathematical statistics, biostatistics or biometrics in the year of the award. A faxed, endorsed enrolment form or a statement from a Head of Department or Honours/Masters Supervisor, indicating subject choices, will be acceptable.
+
+## Previous recipients
+
+Coming soon.
