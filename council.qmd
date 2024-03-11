@@ -39,13 +39,16 @@ current_council
 Note: this is not the complete record.
 
 ```{r}
-past_council <- council |> 
-  filter(year < year(Sys.Date())) |> 
-  filter(!paste0(name, position) %in% paste0(current_council$Name, current_council$Position))
+past_council <- council  |> 
+  filter(year < year(Sys.Date()))
+# |>
+#   filter(!paste0(name, position) %in% paste0(current_council$Name, current_council$Position))
 
 
 colnames(past_council) <- str_to_title(colnames(past_council))
 
-past_council
+past_council |> 
+  dplyr::group_by(Year) |> 
+  gt::gt()
 ```
 
