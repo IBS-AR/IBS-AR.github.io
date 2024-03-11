@@ -7,7 +7,7 @@ title: "About us"
 
 The International Biometric Society (IBS) is devoted to the development and application of statistical and mathematical theory and methods in the Biosciences, including agriculture, biomedical science and public health, ecology, environmental sciences, forestry, and allied disciplines. It welcomes as members statisticians, mathematicians, biological scientists, and others devoted to interdisciplinary efforts in advancing the collection and interpretation of information in the biosciences.
 
-The Society publishes two journals, [Biometrics](https://academic.oup.com/biometrics), reporting communications consistent with the Society's mission, and, jointly with the American Statistical Association, the Journal of Agricultural, Biological, and Environmental Statistics ([JABES](https://link.springer.com/journal/13253)).
+The Society publishes two journals, [Biometrics](https://www.biometricsociety.org/publications/biometrics), reporting communications consistent with the Society's mission, and, jointly with the American Statistical Association, the Journal of Agricultural, Biological, and Environmental Statistics ([JABES](https://www.biometricsociety.org/publications/jabes)).
 
 The IBS is organised into geographically-defined regions, each with at least 50 members. The Australasian Region (IBS-AR) is one of over 30 regions under the IBS umbrella. It provides to over [200 members of the International Biometric Society](membership.html) who reside in Australia, New Zealand and nearby countries a local focus and support for biometrics undertaken in this region.
 
