@@ -4,7 +4,14 @@ title: Membership
 
 ## Our members
 
-In 2023 there are approximately 175 members of the Australasian Region. Almost three-quarters of our members reside in Australia, with more than half of these from the states of Queensland and New South Wales. The other quarter of our members are mostly from New Zealand, although we also have members that reside in England, Italy, USA, China, Germany and Vietnam.
+In 2023 there were approximately 175 members of the Australasian Region. Almost three-quarters of our members reside in Australia, with more than half of these from the states of Queensland and New South Wales. The other quarter of our members are mostly from New Zealand, although we also have members that reside in England, Italy, USA, China, Germany and Vietnam.
+
+<div class="center">
+<a href="https://ibsar.wildapricot.org/">
+<button type="button" class="btn btn-primary">Membership Portal</button>
+</a>
+</div>
+
 
 ## How to join
 
@@ -14,8 +21,15 @@ The two membership categories (regular and student) are explained on the members
 
 As of 2021, we now have an online membership portal where you can apply to join the society and renew membership online. If you would like to join the society, then please click the button below.
 
+<div class="center">
+<a href="https://ibsar.wildapricot.org/join-us">
+<button type="button" class="btn btn-primary">Join The Society</button>
+</a>
+</div>
 
 ## Key Dates for Membership
 
+Membership reminders sent: 1st February
 
+Membership renewal due: 1st March
 
