@@ -36,7 +36,7 @@ current_council
 
 ## Past council members
 
-Note: this is not the complete record.
+Note: this is not the complete record, it has been recreated from historical regional newsletters.
 
 ```{r}
 past_council <- council  |> 
@@ -48,7 +48,16 @@ past_council <- council  |>
 colnames(past_council) <- str_to_title(colnames(past_council))
 
 past_council |> 
-  dplyr::group_by(Year) |> 
-  gt::gt()
+  # arrange((Year)) |> 
+  reactable::reactable(
+    # groupBy = "Year",
+    pagination = FALSE, 
+    columns = list(
+      Year = reactable::colDef(
+        align = "left"
+      )
+    )
+    
+  )
 ```
 
