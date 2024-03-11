@@ -7,9 +7,9 @@ title: "About us"
 
 The International Biometric Society (IBS) is devoted to the development and application of statistical and mathematical theory and methods in the Biosciences, including agriculture, biomedical science and public health, ecology, environmental sciences, forestry, and allied disciplines. It welcomes as members statisticians, mathematicians, biological scientists, and others devoted to interdisciplinary efforts in advancing the collection and interpretation of information in the biosciences.
 
-The Society publishes two journals, [Biometrics](https://academic.oup.com/biometrics), reporting communications consistent with the Society's mission, and, jointly with the American Statistical Association, the Journal of Agricultural, Biological, and Environmental Statistics (JABES).
+The Society publishes two journals, [Biometrics](https://academic.oup.com/biometrics), reporting communications consistent with the Society's mission, and, jointly with the American Statistical Association, the Journal of Agricultural, Biological, and Environmental Statistics ([JABES](https://link.springer.com/journal/13253)).
 
-The IBS is organised into geographically-defined regions, each with at least 50 members. The Australasian Region (IBS-AR) is one of over 30 regions under the IBS umbrella. It provides to over 200 members of the International Biometric Society who reside in Australia, New Zealand and nearby countries a local focus and support for biometrics undertaken in this region.
+The IBS is organised into geographically-defined regions, each with at least 50 members. The Australasian Region (IBS-AR) is one of over 30 regions under the IBS umbrella. It provides to over [200 members of the International Biometric Society](membership.html) who reside in Australia, New Zealand and nearby countries a local focus and support for biometrics undertaken in this region.
 
 ## Definition of Biometrics
 
@@ -23,19 +23,19 @@ Recently, the term "Biometrics" has also been used to refer to the emerging fiel
 
 ## Rules of Incorporation of IBS-AR as an Association
 
-The rules for the Australasian Region date from December 2020 when incorporation occurred.
+The [rules](http://biometricsociety.org.au/docs/INTERNATIONAL BIOMETRIC SOCIETY AUSTRALASIAN REGION INC A06212 - Rules 22 December 2020.pdf) for the Australasian Region date from December 2020 when incorporation occurred.
 
 ## Code of Conduct
 
-Our regional code of conduct was developed in 2019.
+Our regional [code of conduct](docs/IBS-AR-Code-of-Conduct.pdf) was developed in 2019.
 
 ## History
 
-Please refer to Biometric Bulletin Vol 17 No 3 (July-September 2000) by Sue Wilson for details.
+Please refer to [Biometric Bulletin Vol 17 No 3](docs/BiometricBulletin2000Vol17(3)pp14-15.pdf) (July-September 2000) by Sue Wilson for details.
 
 ## Regional news for inclusion in the Biometric Bulletin
 
-Regional news for inclusion in the Biometric Bulletin needs to be received by end of January and July each year. Please email Garth Tarr of University of Sydney with your contributions.
+Regional news for inclusion in the Biometric Bulletin needs to be received by end of January and July each year. Please email [Garth Tarr](mailto:garth.tarr@sydney.edu.au) of University of Sydney with your contributions.
 
 ## Elections
 
