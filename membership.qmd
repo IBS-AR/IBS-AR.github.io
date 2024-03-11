@@ -13,11 +13,12 @@ In 2023 there were approximately 175 members of the Australasian Region. Almost 
 </div>
 
 
+
 ## How to join
 
-We welcome as members biologists, mathematicians, statisticians, and others interested in applying similar techniques. Individuals usually join as regular members, but we also offer free student membership. See this document for more information for new (and other) members. We also expect all members to abide by the regional by-laws and code of conduct.
+We welcome as members biologists, mathematicians, statisticians, and others interested in applying similar techniques. Individuals usually join as regular members, but we also offer free student membership. See this document for more information for new (and other) members. We also expect all members to abide by the [regional by-laws](/docs/IBS-Australasian-Region-by-laws-since-December-1995.pdf) and [code of conduct](/docs/IBS-AR-Code-of-Conduct.pdf).
 
-The two membership categories (regular and student) are explained on the membership types page. All members of the society receive electronic access to the journals Biometrics and the Journal of Agricultural, Biological, and Environmental Statistics (JABES), as well as the newsletter Biometric Bulletin. Student membership is free but only regular members have voting privileges and can hold office.
+The two membership categories (regular and student) are explained on the membership types page. All members of the society receive electronic access to the journals Biometrics and the Journal of Agricultural, Biological, and Environmental Statistics (JABES), as well as the newsletter Biometric Bulletin.
 
 As of 2021, we now have an online membership portal where you can apply to join the society and renew membership online. If you would like to join the society, then please click the button below.
 
@@ -26,6 +27,32 @@ As of 2021, we now have an online membership portal where you can apply to join 
 <button type="button" class="btn btn-primary">Join The Society</button>
 </a>
 </div>
+
+
+## Membership Levels
+
+Membership prices are given in Australian Dollars ($ AUD) and are subject to review annually by the regional council.
+
+### Regular
+
+Cost: $120  
+<!-- Conditions: -->
+
+### Senior Retiree
+
+Cost: $60  
+Conditions: A retired member who has maintained at least 10 years of membership.
+
+### Student
+
+Cost: Free  
+Conditions: A current student at an educational institution within the Australasian Region.  Proof of student status is required on application and renewal.
+
+### Supporting
+
+Cost: Free  
+Conditions: A financial member of another region who would like to maintain  contact with the Australasian Region.
+
 
 ## Key Dates for Membership
 
