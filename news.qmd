@@ -2,9 +2,47 @@
 title: "News"
 ---
 
-The purpose of this page is to capture news from the council, members and the region, including our Pacific and Asian neighbours, that may be of interest to our members and others that visit this site. Please forward relevant information to Garth Tarr, the newsletter correspondent.
-
+:::{.callout-tip collapsable=false appearance='default' icon=true}
+#### Share your news with the society!
+If there is content that you would like included in the regional newsletter or international newsletter, please forward it to the newletter correspondent, <a href="mailto:garth.tarr@sydney.edu.au">Garth Tarr</a>.
+:::
 
 ## Regional newsletter
 
-A regional newsletter is produced as a means of communicating with members. The first issue of this newsletter was produced in December 2006 for electronic distribution.
+A regional newsletter is produced roughly twice a year as a means of communicating with members. The first issue of this newsletter was produced in December 2006 for electronic distribution. The purpose of the newsletter is to capture news from the council, members and the region, that may be of interest to our members.
+
+
+
+
+```{r}
+#| echo: false
+newsletters = list.files("newsletter")
+news_df = data.frame(newsletters) |> 
+  dplyr::mutate(path = paste0("newsletter/",newsletters)) |> 
+  tidyr::separate_wider_delim(
+    newsletters,
+    names = c("society","region","type","month","year"),
+    delim = "-") |> 
+  dplyr::mutate(
+    year = readr::parse_number(year),
+    month = factor(month, levels = month.abb)
+  ) |> 
+  dplyr::arrange(desc(year),desc(month))
+news_df |> dplyr::select( Year = year, Month = month, Link = path) |> 
+  reactable::reactable(
+    columns = list(
+      Year = reactable::colDef(align = "left", minWidth = 40),
+      Month = reactable::colDef(align = "left", minWidth = 40),
+      Link = reactable::colDef(cell = function(value, index) {
+        url <- value
+        htmltools::tags$a(href = url, target = "_blank", "Newsletter")
+      })
+    )
+  )
+```
+
+
+
+## International newsletter
+
+The International Biometric Society publishes a quarterly newsletter containing news about membership activities, letters to the editor, and membership and editorial commentaries. It is distributed via email to members. An archive of past newsletters can be found [here](https://www.biometricsociety.org/publications/biometric-bulletin).

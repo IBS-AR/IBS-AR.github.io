@@ -30,3 +30,6 @@ quarto preview
 quarto publish gh-pages --no-browser
 ```
 
+## How to update the news page
+
+When a newsletter is published, a PDF copy needs to be generated and saved in the `newsletter` folder. The naming convention is `IBS-AR-Newsletter-MMM-YYYY.pdf` (see examples in the folder). Then the page can be rendered in RStudio and the table will be automatically updated. The code identifies the files in the `newsletter` folder, extracts the month and year and adds a link to the file in the reactable.
