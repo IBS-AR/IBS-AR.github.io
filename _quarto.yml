@@ -9,9 +9,9 @@ website:
   repo-url: https://github.com/IBS-AR/IBS-AR.github.io
   repo-actions: [edit, issue]
   sidebar:
-    logo: logo-ibs-ar.svg
+    logo: logo.svg
   navbar:
-    logo: logo-ibs-ar.svg
+    logo: logo.svg
     left:
       - href: index.qmd
         text: Home
