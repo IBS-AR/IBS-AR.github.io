@@ -1,8 +1,9 @@
 name,location,date_start,date_end,link
-IBC Riga,"Riga, Latvia","2022-07-10","2022-07-15","https://www.ibc2022.org/home"
-IBC Barcelona,"Barcelona, Spain","2018-07-08","2018-07-13","https://2018.biometricconference.org/"
-IBC Victoria,"Victoria, Canada","2016-07-10","2016-07-15","https://2016.biometricconference.org/"
-IBC Florence,"Florence, Italy","2014-07-06","2014-07-11",""
-IBC Kobe,"Kobe, Japan","2012-07-01","2012-07-06",""
-IBC Florianopolis,"Florianopolis, Brazil","2010-07-11","2010-07-16",""
-IBC Dublin,"Dublin, Ireland","2008-07-06","2008-07-11",""
+IBC Atlanta,"Atlanta, Georgia",8/12/2024,13/12/2024,https://www.ibc2024.org/home
+IBC Riga,"Riga, Latvia",10/07/2022,15/07/2022,https://www.ibc2022.org/home
+IBC Barcelona,"Barcelona, Spain",8/07/2018,13/07/2018,https://2018.biometricconference.org/
+IBC Victoria,"Victoria, Canada",10/07/2016,15/07/2016,https://2016.biometricconference.org/
+IBC Florence,"Florence, Italy",6/07/2014,11/07/2014,
+IBC Kobe,"Kobe, Japan",1/07/2012,6/07/2012,
+IBC Florianopolis,"Florianopolis, Brazil",11/07/2010,16/07/2010,
+IBC Dublin,"Dublin, Ireland",6/07/2008,11/07/2008,

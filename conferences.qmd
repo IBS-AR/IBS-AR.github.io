@@ -36,7 +36,7 @@ conf_reg  |>
 
 ## International Biometrics Conference
 
-We highly recommend attending the biennial International Biometric Conference (IBC) meetings, which are held in the off-year to our regional meetings, although the planned meeting in Seoul in 2020 was not held. In 2022 it will be held in Riga, Latvia. Conference organisers can use these [Conference Manual & Annexes](https://www.biometricsociety.org/international-biometrics-conference-manual-and-annexes).
+We highly recommend attending the biennial International Biometric Conference (IBC) meetings, which are held in the off-year to our regional meetings, although the planned meeting in Seoul in 2020 was not held. In 2022 it was held in Riga, Latvia. Conference organisers can use these [Conference Manual & Annexes](https://www.biometricsociety.org/international-biometrics-conference-manual-and-annexes).
 
 See below for further details of previous international conferences.
 
@@ -58,5 +58,5 @@ conf_int  |>
 
 ## Other conferences of interest
 
-If you have a conference of relevance to the biometrical community in Australia or New Zealand, then please contact the contact the Webmaster with details.
+If you have a conference of relevance to the biometrical community in Australia or New Zealand, then please contact the contact [the Webmaster](webmaster@biometricsociety.org.au) with details.
 
