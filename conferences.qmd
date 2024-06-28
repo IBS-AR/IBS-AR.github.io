@@ -12,7 +12,7 @@ conf_reg <- read_csv("data/conferences-regional.csv")
 conf_int <- read_csv("data/conferences-international.csv")
 ```
 
-## International Biometrics Regional Conference
+## International Biometric Society Regional Conference
 
 Our main activity is our regional biennial conference held in odd years. Our last conference was the `r max(year(conf_reg$date_start[conf_reg$date_end < Sys.Date()]))` conference.
 
@@ -34,7 +34,7 @@ conf_reg  |>
 ```
 
 
-## International Biometrics Conference
+## International Biometric Conference
 
 We highly recommend attending the biennial International Biometric Conference (IBC) meetings, which are held in the off-year to our regional meetings, although the planned meeting in Seoul in 2020 was not held. In 2022 it was held in Riga, Latvia. Conference organisers can use these [Conference Manual & Annexes](https://www.biometricsociety.org/international-biometrics-conference-manual-and-annexes).
 

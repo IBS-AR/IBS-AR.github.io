@@ -1,4 +1,4 @@
-# International Biometrics Society - Australasian Region 
+# International Biometric Society - Australasian Region 
 
 This is a work-in-progress!
 
