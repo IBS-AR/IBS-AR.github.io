@@ -27,10 +27,12 @@ news_df = data.frame(newsletters) |>
     year = readr::parse_number(year),
     month = factor(month, levels = month.abb)
   ) |> 
-  dplyr::arrange(desc(year),desc(month))
-news_df |> dplyr::select( Year = year, Month = month, Link = path) |> 
+  dplyr::arrange(desc(year),desc(month)) |> 
+  dplyr::mutate(Issue = dplyr::n():1)
+news_df |> dplyr::select(Issue, Year = year, Month = month, Link = path) |> 
   reactable::reactable(
     columns = list(
+      Issue = reactable::colDef(align = "left", minWidth = 40),
       Year = reactable::colDef(align = "left", minWidth = 40),
       Month = reactable::colDef(align = "left", minWidth = 40),
       Link = reactable::colDef(cell = function(value, index) {
