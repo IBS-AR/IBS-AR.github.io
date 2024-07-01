@@ -43,7 +43,9 @@ See below for further details of previous international conferences.
 ```{r}
 #| results: asis
 conf_int  |> 
-  mutate(name = ifelse(link!="" & !is.na(link), 
+  mutate(date_start = parse_date_time(date_start, c("dmy", "ymd", "mdy")),
+         date_end = parse_date_time(date_end, c("dmy", "ymd", "mdy")),
+         name = ifelse(link!="" & !is.na(link), 
                        paste0("[", name, "](", link, ")"),
                        name),
          year = year(date_start)) |> 
