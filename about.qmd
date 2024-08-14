@@ -23,7 +23,7 @@ Recently, the term "Biometrics" has also been used to refer to the emerging fiel
 
 ## Rules of Incorporation of IBS-AR as an Association
 
-The [rules](http://biometricsociety.org.au/docs/INTERNATIONAL BIOMETRIC SOCIETY AUSTRALASIAN REGION INC A06212 - Rules 22 December 2020.pdf) for the Australasian Region date from December 2020 when incorporation occurred.
+The [rules](docs/INTERNATIONAL BIOMETRIC SOCIETY AUSTRALASIAN REGION INC A06212 - Rules 22 December 2020.pdf) for the Australasian Region date from December 2020 when incorporation occurred.
 
 ## Code of Conduct
 
