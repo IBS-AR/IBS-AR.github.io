@@ -23,7 +23,7 @@ Our main activity is our regional biennial conference held in odd years. Our las
 #| results: asis
 conf_reg  |> 
   mutate(year = year(date_start),
-         name = ifelse(year==2025, name, paste0("[", name, "](", link, ")"))) |> 
+         name = paste0("[", name, "](", link, ")")) |> 
   arrange(desc(year)) |> 
   select(name, date_start, date_end, location) |> 
   pwalk(~{
