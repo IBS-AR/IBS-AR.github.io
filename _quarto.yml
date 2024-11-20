@@ -3,6 +3,7 @@ project:
   resources:
     - CNAME
     - "/newsletter/**"
+    - .well-known/atproto-did
 
 website:
   title: "IBS-AR"
