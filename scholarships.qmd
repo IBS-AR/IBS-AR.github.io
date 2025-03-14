@@ -10,22 +10,22 @@ Scholarships are for one year and are valued at A$1500.  Applicants should be co
 
 ## How to apply
 
-[<button type="button" class="btn btn-primary">Application form</button>](docs/IBS-AR-Scholarships2024-application-form.doc) [<button type="button" class="btn btn-primary">Referee form</button>](docs/IBS-AR-Scholarships2024-referee-form.doc)
+[<button type="button" class="btn btn-primary">Application form</button>](docs/IBS-AR-Scholarships2025-application-form.doc) [<button type="button" class="btn btn-primary">Referee form</button>](docs/IBS-AR-Scholarships2025-referee-form.doc)
 
 :::{.callout-important collapsable=false appearance='default' icon=true}
-## 2024 closing date: Friday 22nd March
+## 2025 closing date: Friday 4th April
 
-The closing date for applications in 2024 is Friday 22nd March.
+The closing date for applications in 2025 is Friday 4th April.
 
 Please read this page carefully to verify your eligibility before submitting an application. 
 
 :::
 
 
-- [Application form](docs/IBS-AR-Scholarships2024-application-form.doc)
-- [Referee form](docs/IBS-AR-Scholarships2024-referee-form.doc)
+- [Application form](docs/IBS-AR-Scholarships2025-application-form.doc)
+- [Referee form](docs/IBS-AR-Scholarships2025-referee-form.doc)
 
-Download the application form from the IBS Australasian Region website (see above) and complete. Your application should also include a copy of your academic record, including third year results if applicable, and a supporting statement from an academic referee, such as one of your third-year lecturers. The form for the supporting statement from the academic referee is also available on the IBS regional website. Procedures for submitting the application, and the supporting statement are detailed on the forms.
+Download the application form above and complete. Your application should also include a copy of your academic record, including third year results if applicable, and a supporting statement from an academic referee, such as one of your third-year lecturers. The form for the supporting statement from the academic referee is also available above. Procedures for submitting the application, and the supporting statement are detailed on the forms.
 
 ### Eligibility Criteria
 
@@ -51,7 +51,7 @@ The award process is competitive and decisions of the selection committee will b
 
 ### Awards
 
-- Successful applicants will be notified in mid-April.
+- Successful applicants will be notified in early May.
 - The names of successful applicants and a summary of their application will be publicised by the society in newsletters and electronic bulletin boards.
 - Payment of the award will be by cheque on receipt of evidence of enrolment in a 4th year or honours program, or Masters program, in statistics, mathematical statistics, biostatistics or biometrics in the year of the award. A faxed, endorsed enrolment form or a statement from a Head of Department or Honours/Masters Supervisor, indicating subject choices, will be acceptable.
 

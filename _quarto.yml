@@ -21,12 +21,12 @@ website:
         text: About
       - council.qmd
       - news.qmd
-      - text: Prizes
+      - text: Scholarships and Prizes
         menu:
-          - href: awards.qmd
-            text: Prizes and awards
           - href: scholarships.qmd
             text: Scholarships
+          - href: awards.qmd
+            text: Prizes and awards
           - href: alfaward.qmd
             text: Alf Cornish award
       - conferences.qmd
