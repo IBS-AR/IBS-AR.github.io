@@ -3,6 +3,21 @@ title: "The International Biometric Society"
 subtitle: "Australasian Region"
 ---
 
+
+::: aside
+
+Follow [@biometricsociety.org.au on Bluesky](https://bsky.app/profile/biometricsociety.org.au) for the latest updates!
+
+<script src="/bsky-embed.es.js" async></script>
+<bsky-embed  
+  username="biometricsociety.org.au"  
+  limit="3"  
+  custom-styles="img.rounded-full { display: none; } .flex > div { max-width: 100%; } .whitespace-pre-wrap { word-wrap: break-word;}"
+>  
+</bsky-embed>
+
+:::
+
 Welcome to the website for the Australasian Region of the International Biometric Society.
 
 Our region comprises members of the International Biometric Society (IBS) that predominantly reside in Australia and New Zealand. Currently, membership numbers are over 200.
