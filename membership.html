@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-42013c5a908802685c6837c74521e883.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -218,7 +218,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="how-to-join" class="level2">
 <h2 class="anchored" data-anchor-id="how-to-join">How to join</h2>
-<p>We welcome as members biologists, mathematicians, statisticians, and others interested in applying similar techniques. Individuals usually join as regular members, but we also offer free student membership. See this document for more information for new (and other) members. We also expect all members to abide by the <a href=".\docs/IBS-Australasian-Region-by-laws-since-December-1995.pdf">regional by-laws</a> and <a href=".\docs/IBS-AR-Code-of-Conduct.pdf">code of conduct</a>.</p>
+<p>We welcome as members biologists, mathematicians, statisticians, and others interested in applying similar techniques. Individuals usually join as regular members, but we also offer free student membership. See this document for more information for new (and other) members. We also expect all members to abide by the <a href="./docs/IBS-Australasian-Region-by-laws-since-December-1995.pdf">regional by-laws</a> and <a href="./docs/IBS-AR-Code-of-Conduct.pdf">code of conduct</a>.</p>
 <p>All members of the society receive electronic access to the journals Biometrics and the Journal of Agricultural, Biological, and Environmental Statistics (JABES), as well as the newsletter Biometric Bulletin.</p>
 <p>As of 2021, we now have an online membership portal where you can apply to join the society and renew membership online. If you would like to join the society, then please click the button below. For further information about membership contact <a href="email:membership@biometricsociety.org.au">the membership officer, Sam Rogers</a></p>
 <div class="center">
@@ -340,8 +340,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -452,7 +450,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
