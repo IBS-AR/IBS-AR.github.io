@@ -17,6 +17,8 @@ The regional council currently comprises the following people:
 
 ```{r}
 #| message: false
+#| warning: false
+#| error: false
 library(tidyverse)
 term <- read_csv("data/current-council-terms.csv")
 council <- read_csv("data/council.csv") 
