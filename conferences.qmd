@@ -7,6 +7,8 @@ df-print: kable
 
 ```{r setup}
 #| message: false
+#| warning: false
+#| error: false
 library(tidyverse)
 conf_reg <- read_csv("data/conferences-regional.csv")
 conf_int <- read_csv("data/conferences-international.csv")
