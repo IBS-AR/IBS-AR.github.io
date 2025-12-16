@@ -4,7 +4,7 @@ title: "News"
 
 :::{.callout-tip collapsable=false appearance='default' icon=true}
 #### Share your news with the society!
-If there is content that you would like included in the regional newsletter or international newsletter, please forward it to the newletter correspondent, <a href="mailto:garth.tarr@sydney.edu.au">Garth Tarr</a>.
+If there is content that you would like included in the regional newsletter or international newsletter, please forward it to the newletter correspondent, <a href="mailto:charley.budgeon@uwa.edu.au">Charley Budgeon</a>.
 :::
 
 ## Regional newsletter
