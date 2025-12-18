@@ -24,7 +24,7 @@ term <- read_csv("data/current-council-terms.csv")
 council <- read_csv("data/council.csv") 
   
 current_council <- council |> 
-  filter(year == year(Sys.Date())) |> 
+  filter(year == 2026) |> 
   select(-year) |> 
   left_join(term, by = "name") |> 
   mutate(term = ifelse(term_start==term_end,
@@ -44,7 +44,7 @@ Note: this is not the complete record, it has been recreated from historical reg
 
 ```{r}
 past_council <- council  |> 
-  filter(year < year(Sys.Date()))
+  filter(year < 2026)
 # |>
 #   filter(!paste0(name, position) %in% paste0(current_council$Name, current_council$Position))
 
