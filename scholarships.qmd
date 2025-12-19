@@ -8,22 +8,24 @@ The Australasian Region of the International Biometric Society (IBS) wants to en
 
 Scholarships are for one year and are valued at A$1500.  Applicants should be completing, or have completed, a relevant course in statistics, mathematical statistics, biostatistics or biometrics, and must have a strong academic record, potential for a career in research, a strong interest in applications of mathematics and statistics to the biosciences, and good communication skills.  For part-time students, the scholarship will be pro rata.
 
+This year we would also like scholarship recipients to give a 20-30 minute online seminar about their work (details to be arranged with the IBS-AR Secretary).
+
 ## How to apply
 
-[<button type="button" class="btn btn-primary">Application form</button>](docs/IBS-AR-Scholarships2025-application-form.doc) [<button type="button" class="btn btn-primary">Referee form</button>](docs/IBS-AR-Scholarships2025-referee-form.doc)
+[<button type="button" class="btn btn-primary">Application form</button>](docs/IBS-AR-Scholarships2026-application-form.docx) [<button type="button" class="btn btn-primary">Referee form</button>](docs/IBS-AR-Scholarships2026-referee-form.docx)
 
 :::{.callout-important collapsable=false appearance='default' icon=true}
-## 2025 closing date: Friday 4th April
+## 2026 closing date: Friday 20th March
 
-The closing date for applications in 2025 is Friday 4th April.
+The closing date for applications in 2026 is Friday 20th March.
 
 Please read this page carefully to verify your eligibility before submitting an application. 
 
 :::
 
 
-- [Application form](docs/IBS-AR-Scholarships2025-application-form.doc)
-- [Referee form](docs/IBS-AR-Scholarships2025-referee-form.doc)
+- [Application form](docs/IBS-AR-Scholarships2026-application-form.docx)
+- [Referee form](docs/IBS-AR-Scholarships2026-referee-form.docx)
 
 Download the application form above and complete. Your application should also include a copy of your academic record, including third year results if applicable, and a supporting statement from an academic referee, such as one of your third-year lecturers. The form for the supporting statement from the academic referee is also available above. Procedures for submitting the application, and the supporting statement are detailed on the forms.
 
