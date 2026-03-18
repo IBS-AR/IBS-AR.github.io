@@ -14,12 +14,13 @@ conf_reg <- read_csv("data/conferences-regional.csv")
 conf_int <- read_csv("data/conferences-international.csv")
 ```
 
+## Upcoming Conferences
+
+The <a href="https://aasc2026.netlify.app"><strong>Australasian Applied Statistics Conference 2026</strong></a> (#AASC2026) will be held from the 30th November to the 4th December 2026 at the Mantra Mooloolaba Beach on the Sunshine Coast.
+
 ## International Biometric Society Regional Conference
 
 Our main activity is our regional biennial conference held in odd years. Our last conference was the `r max(year(conf_reg$date_start[conf_reg$date_end < Sys.Date()]))` conference.
-
-
-
 
 ```{r}
 #| results: asis
