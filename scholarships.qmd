@@ -17,7 +17,7 @@ This year we would also like scholarship recipients to give a 20-30 minute onlin
 :::{.callout-important collapsable=false appearance='default' icon=true}
 ## 2026 closing date: Friday 20th March
 
-The closing date for applications in 2026 is Friday 20th March.
+Applications for 2026 are now closed.
 
 Please read this page carefully to verify your eligibility before submitting an application. 
 
@@ -61,6 +61,8 @@ The award process is competitive and decisions of the selection committee will b
 
 | Year | Recipients         |
 |------|--------------------|
+| 2026 | Veronica Tsou      |
+|      | Adam Wong-Toi      |
 | 2025 | Carlo Gamble       |
 |      | Jiazhe (Jenny) Lin |
 |      | Max Coten          |
