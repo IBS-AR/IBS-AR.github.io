@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://biometricsociety.org.au/scholarships.html</loc>
-    <lastmod>2026-06-22T05:24:20.442Z</lastmod>
-  </url>
-  <url>
     <loc>https://biometricsociety.org.au/membership.html</loc>
-    <lastmod>2026-03-10T21:41:39.909Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biometricsociety.org.au/council.html</loc>
-    <lastmod>2026-02-28T08:20:36.934Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biometricsociety.org.au/conferences.html</loc>
-    <lastmod>2026-03-18T03:48:10.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biometricsociety.org.au/alfaward.html</loc>
-    <lastmod>2026-02-28T08:20:36.927Z</lastmod>
+    <lastmod>2026-08-11T02:37:02.810Z</lastmod>
   </url>
   <url>
     <loc>https://biometricsociety.org.au/about.html</loc>
-    <lastmod>2026-02-28T08:20:36.927Z</lastmod>
+    <lastmod>2026-08-11T02:37:02.803Z</lastmod>
   </url>
   <url>
     <loc>https://biometricsociety.org.au/awards.html</loc>
-    <lastmod>2026-02-28T08:20:36.928Z</lastmod>
+    <lastmod>2026-08-11T02:37:02.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biometricsociety.org.au/conferences.html</loc>
+    <lastmod>2026-08-11T02:37:02.806Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biometricsociety.org.au/council.html</loc>
+    <lastmod>2026-08-11T02:37:02.806Z</lastmod>
   </url>
   <url>
     <loc>https://biometricsociety.org.au/contact.html</loc>
-    <lastmod>2026-03-10T21:34:44.257Z</lastmod>
+    <lastmod>2026-08-11T02:37:02.806Z</lastmod>
   </url>
   <url>
-    <loc>https://biometricsociety.org.au/index.html</loc>
-    <lastmod>2026-02-28T08:20:36.942Z</lastmod>
+    <loc>https://biometricsociety.org.au/scholarships.html</loc>
+    <lastmod>2026-08-11T02:37:02.867Z</lastmod>
   </url>
   <url>
     <loc>https://biometricsociety.org.au/news.html</loc>
-    <lastmod>2026-02-28T08:20:36.944Z</lastmod>
+    <lastmod>2026-08-11T02:37:02.810Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biometricsociety.org.au/index.html</loc>
+    <lastmod>2026-08-11T02:37:02.809Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biometricsociety.org.au/alfaward.html</loc>
+    <lastmod>2026-08-11T02:37:02.804Z</lastmod>
   </url>
 </urlset>
